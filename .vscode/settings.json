@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"*.wglsl": "wgsl",
+		"x86_io.h": "c",
+		"print.h": "c",
+		"consoleio.h": "c",
+		"vga_textio.h": "c",
+		"x86.h": "c",
+		"vector": "cpp"
+	}
+}
